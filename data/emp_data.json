@@ -1,0 +1,29 @@
+{
+  "emp_add": {
+    "username": "女娲010",
+    "mobile": "13700452330",
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "emp_query": {
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "emp_update": {
+    "username": "迪士尼乐园",
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  },
+  "emp_delete": {
+    "status_code": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功"
+  }
+}
